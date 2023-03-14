@@ -15,6 +15,8 @@
 // GitHubGitHub
 // GitHub - TizianoN / object - carousel
 // Contribute to TizianoN / object - carousel development by creating an account on GitHub. (40 kB)
+// https://github.com/TizianoN/object-carousel
+
 
 const slides = [
     {
